@@ -1,11 +1,44 @@
-auto: true
+permalink: /:year-:month-:day/:title/
 
-#markdown: rdiscount
-highlighter: 'pygments'
-#paginate: 8
-permalink: /:title
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
 
-title: Hyper Hamster
-url: http://mukosame.github.io
-feed: /atom.xml
-author_info: <a href="http://mukosame.github.io/">Mukosame</a>
+
+paginate: 10
+paginate_path: ":num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      styles : [highlight.css,post.css]
+      scripts : [post.js]
+
+
+
+title: "RainyAlley"
+email: "sincerebravefight@gmail.com"
+description: "Developer"
+github_username:  "WakelessDragon"
+swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
+disqus_shortname: "rainyalley"
+
+
+
+
+url: "http://blog.rainyalley.com"
+imgrepo: "http://blog.rainyalley.com/static/img"
+
+
+#url: "http://127.0.0.1:4000"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
