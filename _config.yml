@@ -8,6 +8,7 @@ safe: true
 gems: [jekyll-paginate]
 paginate: 8
 paginate_path: "page:num"
+baseurl: jxmbar.github.com
 
 # presonal config
 title: JxmBar Blog
