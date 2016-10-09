@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>JxmBar Blog</title>
- <link href="http://jxm080511321.github.io/jxmbar.github.com/atom.xml" rel="self"/>
- <link href="http://jxm080511321.github.io/jxmbar.github.com"/>
- <updated>2016-10-09T13:53:53+08:00</updated>
+ <link href="http://jxm080511321.github.io/atom.xml" rel="self"/>
+ <link href="http://jxm080511321.github.io"/>
+ <updated>2016-10-09T13:59:39+08:00</updated>
  <author>
    <name></name>
    <email></email>
@@ -13,7 +13,7 @@
  
  <entry>
    <title>腾讯定位SDK FAQ</title>
-   <link href="http://jxm080511321.github.io/jxmbar.github.com/faq/tencent-location-sdk-faq.html"/>
+   <link href="http://jxm080511321.github.io/faq/tencent-location-sdk-faq.html"/>
    <updated>2015-01-22T00:00:00+08:00</updated>
    <id>/faq/tencent-location-sdk-faq</id>
    <content type="html">&lt;p&gt;本文总结了腾讯定位SDK常见的使用问题&lt;/p&gt;
@@ -161,7 +161,7 @@ locationManager.requestLocationUpdates(request, listener, thread.getLooper());
  
  <entry>
    <title>腾讯定位SDK FAQ</title>
-   <link href="http://jxm080511321.github.io/jxmbar.github.com/faq/tencent-location-sdk-faq-%E5%89%AF%E6%9C%AC.html"/>
+   <link href="http://jxm080511321.github.io/faq/tencent-location-sdk-faq-%E5%89%AF%E6%9C%AC.html"/>
    <updated>2015-01-22T00:00:00+08:00</updated>
    <id>/faq/tencent-location-sdk-faq - 副本</id>
    <content type="html">&lt;p&gt;本文总结了腾讯定位SDK常见的使用问题&lt;/p&gt;
@@ -309,7 +309,7 @@ locationManager.requestLocationUpdates(request, listener, thread.getLooper());
  
  <entry>
    <title>腾讯定位SDK开发指南</title>
-   <link href="http://jxm080511321.github.io/jxmbar.github.com/tutorial/tencent-location-sdk-tutorial.html"/>
+   <link href="http://jxm080511321.github.io/tutorial/tencent-location-sdk-tutorial.html"/>
    <updated>2014-11-21T00:00:00+08:00</updated>
    <id>/tutorial/tencent-location-sdk-tutorial</id>
    <content type="html">&lt;h1 id=&quot;tutorialtencent-location-sdk-tutorial-01html&quot;&gt;&lt;a href=&quot;/tutorial/tencent-location-sdk-tutorial-01.html&quot;&gt;1. 入门&lt;/a&gt;&lt;/h1&gt;
@@ -319,7 +319,7 @@ locationManager.requestLocationUpdates(request, listener, thread.getLooper());
  
  <entry>
    <title>腾讯定位SDK开发指南-扩展</title>
-   <link href="http://jxm080511321.github.io/jxmbar.github.com/tutorial/tencent-location-sdk-tutorial-02.html"/>
+   <link href="http://jxm080511321.github.io/tutorial/tencent-location-sdk-tutorial-02.html"/>
    <updated>2014-11-21T00:00:00+08:00</updated>
    <id>/tutorial/tencent-location-sdk-tutorial-02</id>
    <content type="html">&lt;p&gt;注意：继续阅读本节前请确保&lt;/p&gt;
@@ -333,7 +333,7 @@ locationManager.requestLocationUpdates(request, listener, thread.getLooper());
  
  <entry>
    <title>腾讯定位SDK开发指南-入门</title>
-   <link href="http://jxm080511321.github.io/jxmbar.github.com/tutorial/tencent-location-sdk-tutorial-01.html"/>
+   <link href="http://jxm080511321.github.io/tutorial/tencent-location-sdk-tutorial-01.html"/>
    <updated>2014-11-21T00:00:00+08:00</updated>
    <id>/tutorial/tencent-location-sdk-tutorial-01</id>
    <content type="html">&lt;h1 id=&quot;section&quot;&gt;1. 简介&lt;/h1&gt;
