@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:categories/:title.html
-url: jxm080511321.github.io/jxmbar.github.com
+url: jxm080511321.github.io
 lsi: false
 #pygments: true
 safe: true
