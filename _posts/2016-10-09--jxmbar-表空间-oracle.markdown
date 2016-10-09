@@ -6,7 +6,7 @@ tags: [Oracle表空间]
 summary: "表空间创建和临时表空间的创建"
 ---
 #第1步：创建临时表空间
-**create temporary tablespace user_temp **  
+create temporary tablespace user_temp
 tempfile 'D:\oracle\oradata\Oracle9i\user_temp.dbf' 
 size 50m  
 autoextend on  
