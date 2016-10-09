@@ -10,8 +10,8 @@ title : Atom Feed
  <link href="http://{{ site.domain }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <author>
-   <name>{{ site.author }}</name>
-   <email>{{ site.email }}</email>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
  </author>
 
  {% for post in site.posts %}
